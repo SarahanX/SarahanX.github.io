@@ -47,7 +47,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - 2017-2019, Youth Program of National Natural Science Foundation of China, No. 71601106, Principle Investigator ('A+' grade in project completion assessment)
 - 2017-2019, State Language Committee Foundation of China, No. ZDI135-18, Principle Investigator
 
-### Honors and Awards
+### Selected Honors and Awards
 
 - 2022, The Second Prize of the Shanghai Science and Technology Progress Award, China
 - 2019, Youth May Fourth Medal of Shanghai, China
