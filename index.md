@@ -1,6 +1,6 @@
 ## Biography
 
-Currently, I am an associate professor at Shanghai University of Finance and Economics. I received the Ph.D. degree in informatics from Pierre and Marie Curie University and the Institut Mines-TELECOM/TELECOM SudParis in 2015. My Research focuses on design science in IS, with special interests on data analytics, predictive modeling, artificial intelligence, and privacy-preserving computing. 
+Currently, I am a tenured associate professor at Shanghai University of Finance and Economics. I received the Ph.D. degree in informatics from Pierre and Marie Curie University and the Institut Mines-TELECOM/TELECOM SudParis in 2015. My Research focuses on design science in IS, with special interests on data analytics, predictive modeling, artificial intelligence, and privacy-preserving computing. My research has appeared in many premier IS/IT journals, such as MIS Quarterly, INFORMS Journal on Computing, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, Decision Support Systems, etc.
 
 Email: xiaohan@mail.shufe.edu.cn
 
@@ -12,7 +12,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **(new) X. Han**, L. Wang, W. Fan. "[Cost-Effective Social Media Influencer Marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, 35(1): 138-157 (2023).
 
-- **X. Han**, L. Wang, W. Fan, “[Is Hidden Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks](https://misq.umn.edu/is-hidden-safe-location-protection-against-machine-learning-prediction-attacks-in-social-networks)”. MIS Quarterly, 45(2) (2021).
+- **X. Han**, L. Wang, W. Fan, “[Is Hidden Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks](https://misq.umn.edu/is-hidden-safe-location-protection-against-machine-learning-prediction-attacks-in-social-networks)”. MIS Quarterly, 45(2): 821-858 (2021).
 
 - L. Wang, D. Yang, **X. Han***, D. Zhang, X. Ma, “[Mobile Crowdsourcing Task Allocation with Differential-and-Distortion Geo-Obfuscation](https://ieeexplore.ieee.org/document/8695792)”. IEEE Trans. Dependable and Secure Computing, 18(2): 967-981 (2021).
 
@@ -20,7 +20,13 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **X. Han**, H. Huang, L. Wang, “[F-PAD: Private Attribute Disclosure Risk Estimation in Online Social Networks](https://ieeexplore.ieee.org/document/8895669)”. IEEE Trans. Dependable and Secure Computing, 16(6): 1054-1069 (2019).
 
+- L. Wang, D. Zhang, D. Yang, A. Pathak, C. Chen, **X. Han***, H. Xiong, Y. Wang, “SPACE-TA: Cost-Effective Task Allocation Exploiting Intradata and Interdata Correlations in Sparse Crowdsensing”. ACM Trans. Intelligent Systems and Technology 9(2): 20:1-20:28 (2018).
+
+- **X. Han**, L. Wang, R. Farahbakhsh, A. Cuevas, R. Cuevas, N. Crespi, “CSD: A Multi-User Similarity Metric for Community Recommendation in Online Social Networks.” Expert Syst. Appl. 53: 14-26 (2016).
+
 - L. Wang, D. Zhang, Y. Wang, C. Chen, **X. Han***, A. Mhamed. “[Sparse Mobile Crowdsensing: Challenges and Opportunities](https://ieeexplore.ieee.org/document/7509395)”. IEEE Comm. Mag. 54(7): 161-167 (2016). [[**200+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:UxriW0iASnsC)]
+
+- **X. Han**, L. Wang, N. Crespi, S. Park, A. Cuevas. “Alike People, Alike Interests? Inferring Interest Similarity in Online Social Networks”. Decision Support Systems 69: 92-106 (2015).
 
 ### Conference
 
