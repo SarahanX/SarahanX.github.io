@@ -20,13 +20,13 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **X. Han**, H. Huang, L. Wang, “[F-PAD: Private Attribute Disclosure Risk Estimation in Online Social Networks](https://ieeexplore.ieee.org/document/8895669)”. IEEE Trans. Dependable and Secure Computing, 16(6): 1054-1069 (2019).
 
-- L. Wang, D. Zhang, D. Yang, A. Pathak, C. Chen, **X. Han***, H. Xiong, Y. Wang, “SPACE-TA: Cost-Effective Task Allocation Exploiting Intradata and Interdata Correlations in Sparse Crowdsensing”. ACM Trans. Intelligent Systems and Technology 9(2): 20:1-20:28 (2018).
+- L. Wang, D. Zhang, D. Yang, A. Pathak, C. Chen, **X. Han***, H. Xiong, Y. Wang, “[SPACE-TA: Cost-Effective Task Allocation Exploiting Intradata and Interdata Correlations in Sparse Crowdsensing](https://dl.acm.org/doi/10.1145/3131671)”. ACM Trans. Intelligent Systems and Technology 9(2): 20:1-20:28 (2018).
 
-- **X. Han**, L. Wang, R. Farahbakhsh, A. Cuevas, R. Cuevas, N. Crespi, “CSD: A Multi-User Similarity Metric for Community Recommendation in Online Social Networks.” Expert Syst. Appl. 53: 14-26 (2016).
+- **X. Han**, L. Wang, R. Farahbakhsh, A. Cuevas, R. Cuevas, N. Crespi, “[CSD: A Multi-User Similarity Metric for Community Recommendation in Online Social Networks](https://www.sciencedirect.com/science/article/pii/S0957417416000051)”. Expert Syst. Appl. 53: 14-26 (2016).
 
 - L. Wang, D. Zhang, Y. Wang, C. Chen, **X. Han***, A. Mhamed. “[Sparse Mobile Crowdsensing: Challenges and Opportunities](https://ieeexplore.ieee.org/document/7509395)”. IEEE Comm. Mag. 54(7): 161-167 (2016). [[**200+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:UxriW0iASnsC)]
 
-- **X. Han**, L. Wang, N. Crespi, S. Park, A. Cuevas. “Alike People, Alike Interests? Inferring Interest Similarity in Online Social Networks”. Decision Support Systems 69: 92-106 (2015).
+- **X. Han**, L. Wang, N. Crespi, S. Park, A. Cuevas. “[Alike People, Alike Interests? Inferring Interest Similarity in Online Social Networks](https://www.sciencedirect.com/science/article/pii/S0167923614002759)”. Decision Support Systems 69: 92-106 (2015).
 
 ### Conference
 
