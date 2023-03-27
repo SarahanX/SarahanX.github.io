@@ -10,6 +10,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
+- **(new) X. Han**, Y. Yang, L. Wang, J. Wu, "Privacy-Preserving Network Embedding against Private Link Inference Attacks". IEEE Trans. Dependable and Secure Computing, accepted (2023).
+
 - **(new) X. Han**, L. Wang, W. Fan. "[Cost-Effective Social Media Influencer Marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, 35(1): 138-157 (2023).
 
 - **X. Han**, L. Wang, W. Fan, “[Is Hidden Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks](https://misq.umn.edu/is-hidden-safe-location-protection-against-machine-learning-prediction-attacks-in-social-networks)”. MIS Quarterly, 45(2): 821-858 (2021).
